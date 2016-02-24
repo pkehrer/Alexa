@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Tue Feb 23 21:50:46 EST 2016
+lastDeploymentFunctionName=Alexa
+lastDeploymentBucketName=alexa-lamdas
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
